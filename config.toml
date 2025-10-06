@@ -1,0 +1,25 @@
+
+baseURL = "https://efemeridesandalucistas.github.io/"
+languageCode = "es"
+title = "Efemérides Andalucistas"
+theme = "hugo-book"
+
+[params]
+  BookTheme = "light"
+  BookToC = true
+  BookSearch = true
+
+[menu]
+  [[menu.main]]
+    name = "Inicio"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Efemérides"
+    url = "/efemerides/"
+    weight = 2
+  [[menu.main]]
+    name = "Sobre el proyecto"
+    url = "/about/"
+    weight = 3
+
