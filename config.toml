@@ -1,5 +1,5 @@
 
-baseURL = "https://efemeridesandalucistas.github.io/"
+baseURL = "https://efemerides-andalucistas.github.io/"
 languageCode = "es"
 title = "Efemérides Andalucistas"
 theme = "hugo-book"
